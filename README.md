@@ -1,5 +1,5 @@
 
-# A Minimal Function-Level Profiler for Local Codeforces Testing/benchmarking
+# A Minimal Function-Level Profiler for CP solution benchmarking
 
 This note introduces a small, self-contained C++ profiler that prints a timed call tree for every function in your solution.
 It relies only on the standard tool-chain (GCC / Clang) and POSIX.
