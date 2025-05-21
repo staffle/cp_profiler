@@ -180,6 +180,6 @@ void __cyg_profile_func_exit(void*, void*) {
 
 ---
 
-### Final remarks
+### Two cents
 
 Use this profiler only on your machine to locate bottlenecks before submitting the optimised, clean binary. For finer micro-benchmarking or production profiling, consider `perf` or `callgrind`.
